@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimatedVisibilityBug</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida efficitur nibh sagittis imperdiet. Nulla vehicula neque nec ultrices venenatis.</string>
+</resources>
